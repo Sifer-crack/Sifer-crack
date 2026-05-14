@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Semion Andreev</h1>
 <h3 align="center">A passionate all-rounder developer from Russia</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sifer-crack&label=Profile%20views&color=0e75b6&style=flat" alt="sifer-crack" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sifer-crack" alt="sifer-crack" /></a> </p>
-
 - 🔭 I’m currently working on **Digital Butler**
 
 - 🌱 I’m currently learning **C/C++, Embedded systems dev, and project management**
