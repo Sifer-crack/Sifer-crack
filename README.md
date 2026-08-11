@@ -110,4 +110,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sifer-crack&show_icons=true&locale=en" alt="sifer-crack" /></p> -->
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sifer-crack&" alt="sifer-crack" /></p>
