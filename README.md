@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Semion Andreev</h1>
 <h3 align="center">A passionate all-rounder developer from Russia</h3>
 
-- 🔭 I’m currently working on **Digital Butler**
+- 🔭 I’m currently working on **Stocker**
 
-- 🌱 I’m currently learning **C/C++, Embedded systems dev, and project management**
+- 🌱 I’m currently learning **C/C++, FinTech,  System Architecture and project management**
 
-- 👯 I’m looking to collaborate on **Drone Dev and any fun project**
-
-- 💬 Ask me about **Java, Linux**
+- 💬 Ask me about **Java, Linux, System Architecture**
 
 - 📫 How to reach me **semionandreev25@gmail.com**
 
